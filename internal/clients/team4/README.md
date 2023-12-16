@@ -7,7 +7,7 @@ TBC
 | -              | -                  | -         | -           |
 | Infrastructure | Xinyi Zheng   | 02441303   | zniihgnexy  |
 |  | Xinyi Zheng   | 02441303   | zniihgnexy  |
-|  | Hamed Mohammed  | 01871195   | hamedm15  |
+| Ideation and Strategy | Hamed Mohammed  | 01871195   | hamedm15  |
 |  | Yanzhou-Jin  | 02430947   | Yanzhou-Jin |
 |  | Denicke Solomon   | 02470403   | Denicke04  |
 |  | Lisanthan Moodley   | 02488757   | Lisanthan765  |
