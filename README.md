@@ -8,9 +8,6 @@
 - [Introduction to SOMAS Base Platform](https://imperiallondon.sharepoint.com/sites/elec70071-202310/Shared%20Documents/General/basePlatformSOMAS.pdf?CT=1699098039015&OR=ItemsView)
 - [SOMAS ACW Rules](https://imperiallondon.sharepoint.com/sites/elec70071-202310/Class%20Materials/Coursework/SOMAS%20ACW%202023.pdf?CT=1699098083591&OR=ItemsView)
 
-## Useful Links
-- [Previous Year's Github](https://github.com/SOMAS2020/SOMAS2020/tree/main)
-
 ## Running code
 See [Setup & Rules](./docs/SETUP.md) for requirements - EVERYONE SHOULD READ THIS DOC.
 
