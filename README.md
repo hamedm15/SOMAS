@@ -1,6 +1,5 @@
 # Self-Organising Multi-Agent System
 An Inter-dependent Collective Action Problem
-[comment]: <> (TEST)
 
 ## Overview
 
