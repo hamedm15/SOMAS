@@ -1,6 +1,10 @@
 # SOMAS 2023
 [comment]: <> (TEST)
 
+## Overview
+
+Built upon common participation. In SOMAS World, a dynamic electronic environment, multiple fictitious entities termed "agents" venture into a pursuit of survival, energy and point acquisition. These agents confront interdependent collective action challenges amidst varying social relationship scenarios, governed by intricate movement, allocation and interaction strategies. Systems of this nature present interesting implications in computer science and collective intelligence. Independently acting agents equipped with decision-making mechanisms mirror the dynamics of real-world social dilemmas and collective action, offering insight into the capabilities and limitations of such systems. SOMAS World aims to simulate these system’s principles. Through observation of the agents, we can address emerging behaviours, decision-making and adapting social dynamics in a test of survival and resource collection. In reference to self-organizational systems, this project combines the aspects of planning, decision-making, and collaboration to optimize each agent’s overall performance.
+
 ## Official Documents
 ### ['In-Depth Report'](Report.pdf)
 - [Rules and Implentation](./docs/Rules%20and%20Implentation.md)
